@@ -22,7 +22,7 @@
   "dependencies": {
     "bignumber.js": "^6.0.0",
     "bip39": "^2.5.0",
-    "bn": "^1.0.1",
+    "bn.js": "^4.4.0",
     "elliptic": "^6.4.0"
   },
   "devDependencies": {
